@@ -1,5 +1,6 @@
 # RandomizeModule
 GetRandomColor3() is a function where the module generates a random color
+
 Example
 
 local module = require(script.Parent)
