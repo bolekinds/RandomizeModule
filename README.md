@@ -9,7 +9,7 @@ local random = module:GetRandomColor3()
 
 print(random)
 
-# GetRandomChildFromParent() is a function where the module gets a random child in a model or folder.
+# GetRandomChildFromParent() is a function where the module gets a random child in a model or folder. ( i know its a weird name ok )
 
 # Example
 
